@@ -1,0 +1,36 @@
+commit 1b6bb56223d773bcc50e5f065ec2dd2bfdee8cf0
+Author: RohitDhankar <dhankar.rohit@gmail.com>
+Date:   Sun Jan 16 12:07:17 2022 +0530
+
+    init_lightly
+---
+ README.md | 21 +++++++++++++++++++++
+ 1 file changed, 21 insertions(+)
+
+diff --git a/README.md b/README.md
+new file mode 100644
+index 0000000..d586ca2
+--- /dev/null
++++ b/README.md
+@@ -0,0 +1,21 @@
++
++#### Lightly Learning experiments -->
++- https://github.com/lightly-ai/lightly
++- https://www.youtube.com/watch?v=38kwv0xEIz4&t=2s
++- https://www.lightly.ai/
++
++#### Tutes -- Lightly -->
++- https://docs.lightly.ai/tutorials/package/tutorial_moco_memory_bank.html
++
++
++
++
++
++
++
++
++
++
++LinkedIn -->> 
++- https://www.linkedin.com/in/rohitdhankar/
++- https://github.com/RohitDhankar/lightly_pytorch_images.git

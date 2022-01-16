@@ -16,6 +16,6 @@
 
 
 
-LinkedIn -->> 
+#### LinkedIn -->> 
 - https://www.linkedin.com/in/rohitdhankar/
 - https://github.com/RohitDhankar/lightly_pytorch_images.git
